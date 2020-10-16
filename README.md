@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=2E77B5)](https://www.linkedin.com/in/sabbirrrrr/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sabbirrrrrr/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sabbirs93@gmail.com?subject=From%20GitHub&cc=sabbirs93@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Sabbir Shawon's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/sabbirshawon)
+
 
 Hi there 👋, This is Sabbir Ahmed Shawon. A self-taught, passionate and fast-learner full-stack developer from Sylhet, 🇧🇩 🌎. I have completed my undergraduate from Metropolitan University, Sylhet 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
 
